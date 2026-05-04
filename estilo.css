@@ -1,0 +1,44 @@
+body{
+    background-color:white ;
+}
+h1{
+    color: aquamarine;
+    border: 1px solid black;
+    border-radius: 20px;
+    background: black;
+    text-align: center;
+    padding-top: 20px;
+}
+
+p{
+    color: black;
+}
+
+.exemplo-back{
+    height: 100px;
+    background: url(pexels-geronimo-junior-2605963-5803749.jpg);
+    background-size: cover;
+    margin-bottom: 30px;
+
+}
+
+.botao{
+    margin-left: 33%;
+    background:gray;
+    color: black;
+    padding-top:20px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.botao:hover{
+    background: blue;
+}
+.teste{
+   max-width: 800px;
+    height: 150px;
+    background: cyan;
+}
